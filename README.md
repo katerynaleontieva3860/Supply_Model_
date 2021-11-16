@@ -46,7 +46,7 @@ Notice, that every tick, the "Epoch" event occurs.
 Each Age, 100 transactions occur.
 -- Const FEE * amountOfTransactions burned
 
-Futhermore,every Age, tokens are created, equal to the REWARD variable
+Futhermore,every Age, tokens are created, equal to the REWARD variable.
 When tokens are burned and created in the system, we update the GlobalState variables:
 * TokensIssued
 * TokensBurned
@@ -57,8 +57,8 @@ Every 24 hours (24 * 60 ticks) the REWARD variable is recalculated.
 We made calculation and present our results in the Token Supply plot.
 Also, we used simple mathematic function - hyperbola to made supply simulation.
 ## Our plot consist of :
-* X-axis - Amout of days - 1460 
-* Y- axis - Amout of Tokens in the system - 10 bil
+* X - axis - Amount of days - 1460 
+* Y - axis - Amount of Tokens in the system - 10 billions
 Futhermore, we made output of statistics every recalculation:
 *Released tokens
 *Burned tokens
