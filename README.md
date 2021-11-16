@@ -81,10 +81,7 @@ You can familiarize yourself with our conclusions as soon as you run the code an
 --- pip3 install numpy
 * import random
 --- pip3 install random
-* import pylab
---- pip3 install pylab
-* import numpy.random as rand
-* from numpy.random import choice
+
 
 
 ## Authors
